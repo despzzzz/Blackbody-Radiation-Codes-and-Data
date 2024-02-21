@@ -1,0 +1,8 @@
+Trial   Small Peak Position(degrees)
+1	78.05558
+2	78.75822
+3	76.72722
+4	77.33687
+
+
+
